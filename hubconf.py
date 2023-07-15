@@ -1,4 +1,4 @@
-dependencies = ['torch', 'torchaudio']
+dependencies = ['torch']
 import torch
 import json
 import os
